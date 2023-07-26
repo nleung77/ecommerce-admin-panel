@@ -1,4 +1,4 @@
-import { UserButton } from "@clerk/next.js";
+import { UserButton } from "@clerk/nextjs";
 
 const SetupPage = () => {
   return (
