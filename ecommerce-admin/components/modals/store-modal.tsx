@@ -18,4 +18,4 @@ export const StoreModal = () => {
   );
 };
 
-export default StoreModal;
+export default StoreModal
